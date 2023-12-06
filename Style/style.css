@@ -258,13 +258,6 @@ img {
   text-align: center;
   padding: 30px 20px;
 }
-.container .box-container .box__fastfood {
-  border-radius: 20px;
-  background: #E7C290;
-  text-align: center;
-  padding: 30px 20px;
-}
-
 .container .box-container .box:hover {
   box-shadow: 0 10px 15px rgba(40, 16, 16, 0.9);
   transform: scale(1.05);
